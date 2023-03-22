@@ -1,0 +1,1 @@
+<view><uni-card class="{{[hour>33?'active':'']}}" style="flex:none;margin:5px;" vue-id="ce78935e-1" thumbnail="../../static/images/people.png" title="{{people.name}}" bind:__l="__l" vue-slots="{{['default']}}"><view>{{"卡号:"+people.id}}</view><view>{{"开始时间:"+people.start_time}}</view><view>{{"工作时间:"+hour+"小时"+min+"分"+miao+"秒"}}</view></uni-card></view>

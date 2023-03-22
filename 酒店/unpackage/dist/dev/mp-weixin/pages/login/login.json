@@ -1,0 +1,8 @@
+{
+  "navigationBarTitleText": "登录界面",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "uni-card": "/node-modules/@dcloudio/uni-ui/lib/uni-card/uni-card",
+    "uni-easyinput": "/node-modules/@dcloudio/uni-ui/lib/uni-easyinput/uni-easyinput"
+  }
+}

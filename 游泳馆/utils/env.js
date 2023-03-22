@@ -1,0 +1,8 @@
+// let MQTTURL='49.235.85.170'
+// let APIURL='49.235.85.170'
+let MQTTURL='192.168.0.60'
+let APIURL='192.168.0.227'
+module.exports={
+	MQTTURL,
+	APIURL
+}

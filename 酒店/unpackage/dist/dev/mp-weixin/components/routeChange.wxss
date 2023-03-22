@@ -1,0 +1,9 @@
+
+.routeChange{
+	display: flex;
+	text-align: center;
+}
+.active{
+	background-color: beige;
+}
+

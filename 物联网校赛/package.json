@@ -1,0 +1,13 @@
+{
+  "dependencies": {
+    "@dcloudio/uni-ui": "^1.4.20",
+    "axios": "^0.27.2",
+    "moment": "^2.29.4",
+    "mqtt": "^3.0.0",
+    "uview-ui": "^2.0.33"
+  },
+  "devDependencies": {
+    "node-sass": "^7.0.1",
+    "sass-loader": "^13.0.2"
+  }
+}

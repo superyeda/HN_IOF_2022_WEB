@@ -1,0 +1,16 @@
+
+.windState{
+	display: flex;
+	text-align: center;
+}
+.manu view{
+	display: flex;
+}
+.mode{
+	display: flex;
+	justify-content: space-around;
+}
+.mode view{
+	display: flex;
+}
+
